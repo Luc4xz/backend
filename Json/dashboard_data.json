@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "title": "UW-Madison CS Paper Dashboard",
+    "description": "Timeline of CS-related papers and global patent citation distribution.",
+    "interaction_note": "Clicking a year can update the histogram only if year-by-year patent histogram data is added later.",
+    "total_unique_papers": 35891
+  },
+  "timeline": [
+    {
+      "year": 2014,
+      "paper_count": 2766
+    },
+    {
+      "year": 2015,
+      "paper_count": 2710
+    },
+    {
+      "year": 2016,
+      "paper_count": 2702
+    },
+    {
+      "year": 2017,
+      "paper_count": 2895
+    },
+    {
+      "year": 2018,
+      "paper_count": 3094
+    },
+    {
+      "year": 2019,
+      "paper_count": 3628
+    },
+    {
+      "year": 2020,
+      "paper_count": 4224
+    },
+    {
+      "year": 2021,
+      "paper_count": 3801
+    },
+    {
+      "year": 2022,
+      "paper_count": 3386
+    },
+    {
+      "year": 2023,
+      "paper_count": 3702
+    },
+    {
+      "year": 2024,
+      "paper_count": 2983
+    }
+  ],
+  "defaultPatentHistogram": [
+    {
+      "patent_count": 0,
+      "paper_count": 34441
+    },
+    {
+      "patent_count": 1,
+      "paper_count": 736
+    },
+    {
+      "patent_count": 2,
+      "paper_count": 321
+    },
+    {
+      "patent_count": 3,
+      "paper_count": 119
+    },
+    {
+      "patent_count": 4,
+      "paper_count": 86
+    },
+    {
+      "patent_count": 5,
+      "paper_count": 43
+    },
+    {
+      "patent_count": 6,
+      "paper_count": 23
+    },
+    {
+      "patent_count": 7,
+      "paper_count": 20
+    },
+    {
+      "patent_count": 8,
+      "paper_count": 15
+    },
+    {
+      "patent_count": 9,
+      "paper_count": 16
+    },
+    {
+      "patent_count": 10,
+      "paper_count": 8
+    },
+    {
+      "patent_count": 11,
+      "paper_count": 7
+    },
+    {
+      "patent_count": 12,
+      "paper_count": 6
+    },
+    {
+      "patent_count": 13,
+      "paper_count": 10
+    },
+    {
+      "patent_count": 14,
+      "paper_count": 5
+    },
+    {
+      "patent_count": 15,
+      "paper_count": 3
+    },
+    {
+      "patent_count": 16,
+      "paper_count": 2
+    },
+    {
+      "patent_count": 17,
+      "paper_count": 1
+    },
+    {
+      "patent_count": 18,
+      "paper_count": 3
+    },
+    {
+      "patent_count": 19,
+      "paper_count": 3
+    },
+    {
+      "patent_count": 20,
+      "paper_count": 4
+    },
+    {
+      "patent_count": 21,
+      "paper_count": 2
+    },
+    {
+      "patent_count": 23,
+      "paper_count": 1
+    },
+    {
+      "patent_count": 24,
+      "paper_count": 2
+    },
+    {
+      "patent_count": 26,
+      "paper_count": 1
+    },
+    {
+      "patent_count": 29,
+      "paper_count": 1
+    },
+    {
+      "patent_count": 30,
+      "paper_count": 3
+    },
+    {
+      "patent_count": 32,
+      "paper_count": 1
+    },
+    {
+      "patent_count": 35,
+      "paper_count": 1
+    },
+    {
+      "patent_count": 37,
+      "paper_count": 1
+    },
+    {
+      "patent_count": 49,
+      "paper_count": 2
+    },
+    {
+      "patent_count": 62,
+      "paper_count": 1
+    },
+    {
+      "patent_count": 68,
+      "paper_count": 1
+    },
+    {
+      "patent_count": 70,
+      "paper_count": 1
+    },
+    {
+      "patent_count": 92,
+      "paper_count": 1
+    }
+  ]
+}
